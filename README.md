@@ -12,4 +12,4 @@ There are 4 files:
 
 4. areas_salud: The database is daily updated and includes the total number of cases, active cases, discharge cases, deaths, hospitalised patients and positive cases of medical professionals.
 
-
+You can find a Tableau Dashboard with interactive information [here](https://public.tableau.com/profile/javier.canales.luna#!/vizhome/CORONAVIRUS_EXTREMADURA/Dashboardcompleto).
